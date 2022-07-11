@@ -1,9 +1,0 @@
-cheatengine
-按鍵精靈
-NX Launcher
-NX Plus
-TrainerBox
-Bloody
-ProcessHacker
-按键精灵
-tinytask
